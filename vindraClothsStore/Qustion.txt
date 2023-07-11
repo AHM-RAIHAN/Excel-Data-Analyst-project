@@ -1,0 +1,25 @@
+1) Compare the sales and orders using single chart.
+2) Which month got the highest sales and orders?
+3) Who purchased more- men or wemen in 2022?
+4) What are different order status in 2022?
+5) list top 10 states contributing to the sales?
+6) Relation between age and gender based on order number?  
+7) Which channel is contributing to maximum sales?
+8) Higest Selling catagory?  
+
+insights :
+1) In sales by order graph, we can find out our most sales month is march.
+2) Channel sales graph, we can clearly see the Amazon is the heighst sales channel.
+3) In highest selling catagory, set dress is the highest.
+4) Also extract the hights sales states in india. 
+5) we also find out women are doing more shopping than men also youn aged
+people are more likely to do shopping.
+6) Shppping ratio between men and women using pichrt.
+7) We also make a pichart to show order status. and deliver ration is 92%.
+
+We can also find out monthly sales, individual channel sales and sales volume
+using individual dress catagory. 
+ 
+
+decision: 
+in coming year we can take 
